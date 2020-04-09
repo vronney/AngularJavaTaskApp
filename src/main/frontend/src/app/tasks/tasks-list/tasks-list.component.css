@@ -1,0 +1,15 @@
+.name {
+    padding-left: 10px;
+    font-size: 15px;
+}
+
+.completed {
+    text-decoration: line-through !important;
+    font-style: italic;
+}
+
+.label {
+    border-radius: 5%;
+    padding-left: 2px;
+    padding-right: 2px;
+}
